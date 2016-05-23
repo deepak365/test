@@ -1,7 +1,6 @@
 #Deployment Notes :)
 
 ####Platform to run project on (Node version, etc.) :
-os : Ubuntu 14.04
 
 node version : 5.0.1
 
@@ -26,4 +25,7 @@ Name : Google App engine.
 ####List of env variables with the explanation of variable ( example values ) 
 1.TWITTER_KEY =  `deepak365` (Keys which need to create connection from twitter value). 
 
+### Any internal call required : Yes
+1. Crowdfire Internal.
+2. Planning engine internal.
 
