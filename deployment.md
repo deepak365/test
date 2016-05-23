@@ -27,5 +27,4 @@ Name : Google App engine.
 
 #### Any internal call required : Yes
 1. Crowdfire Internal.
-2. Planning engine internal.
 
