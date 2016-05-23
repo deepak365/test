@@ -1,3 +1,5 @@
+#Deployment Notes :)
+
 ####Platform to run project on (OS, Node version, etc.) :
 os : Ubuntu 14.04
 
